@@ -1,0 +1,3 @@
+
+
+    string array[100];
